@@ -8,4 +8,6 @@ class Node():
 if __name__ == "__main__":
     Node(20,30)
 
+print("Hello, and this is printed!")
+
 # Program ends here...
